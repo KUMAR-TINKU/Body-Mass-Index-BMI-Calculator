@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #414141;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+}
+
+form {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+#height {
+    margin: 20px;
+    border: 1px solid #fff;
+
+}
+
+#weight {
+    margin: 20px;
+    border: 1px solid #fff;
+
+}
+
+button {
+    border-radius: 10px;
+    padding: 20px;
+    text-shadow: 2px 8px 5px #414141;
+}
+
+#results {
+    margin: 20px;
+
+}
+
+h3 {
+    padding: 20px;
+}
+
+p {
+    padding: 2px;
+}
